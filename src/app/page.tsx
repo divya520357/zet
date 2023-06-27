@@ -232,7 +232,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className={styles.startEarning}>
+      {/* <div className={styles.startEarning}>
         <div className={styles.earningText}>
           <p className='font-semibold text-sm	'>
             THE ZET EFFECT          </p>
@@ -247,7 +247,7 @@ export default function Home() {
         <div className={styles.earningRight}>
           <Image className={styles.diagonalImage} alt="background" loading="lazy" width="162" height="48" decoding="async" src="/images/earningbg.svg"></Image>
         </div>
-      </div>
+      </div> */}
 
     </main>
   )
